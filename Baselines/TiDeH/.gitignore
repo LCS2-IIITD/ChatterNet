@@ -1,0 +1,6 @@
+env*
+*/__pycache__/*
+*.tmp
+nohup.out
+data/*
+.ipynb_checkpoints
