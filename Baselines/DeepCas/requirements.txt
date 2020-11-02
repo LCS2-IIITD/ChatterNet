@@ -21,5 +21,5 @@ s3transfer==0.3.1
 scipy==1.2.2
 six==1.14.0
 smart-open==1.9.0
-tensorflow==0.12.1
+tensorflow==1.15.4
 urllib3==1.25.7
